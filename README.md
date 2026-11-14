@@ -295,13 +295,10 @@ The analysis also highlights the importance of technical skills, professional ex
 ## Dashboard Screenshots
 
 ### 1. Finance Job Market Overview
-
-![Finance Job Market Overview](Page 1.png)
+![Finance Job Market Overview](page%201.PNG)
 
 ### 2. Salary & Skills Intelligence
-
-![Salary & Skills Intelligence](Page 2.png)
+![Salary & Skills Intelligence](page%202.PNG)
 
 ### 3. Recruitment Performance & Efficiency
-
-![Recruitment Performance & Efficiency](Page 3.png)
+![Recruitment Performance & Efficiency](page%203.PNG)
