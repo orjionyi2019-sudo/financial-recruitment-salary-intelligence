@@ -300,8 +300,8 @@ The analysis also highlights the importance of technical skills, professional ex
 
 ### 2. Salary & Skills Intelligence
 
-![Salary and Skills Intelligence](Page 2.png)
+![Salary & Skills Intelligence](Page 2.png)
 
 ### 3. Recruitment Performance & Efficiency
 
-![Recruitment Performance and Efficiency](Page 3.png)
+![Recruitment Performance & Efficiency](Page 3.png)
